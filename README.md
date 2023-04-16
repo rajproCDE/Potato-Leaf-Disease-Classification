@@ -19,4 +19,12 @@ The model is implemented using Python programming language and popular deep lear
 # Dataset: https://www.kaggle.com/code/tharunk07/potatoleaves-disease-prediction/input
 
 # Conclusion
-The Potato Disease Classification project is a practical application of Deep Learning and Convolutional Neural Networks (CNN) for detecting diseases in potato plants. The trained model can accurately classify potato plants as healthy or diseased, which can help farmers take timely action to prevent crop losses. The project can be extended by incorporating real-time image processing, deploying the model on edge devices, or
+The Potato Disease Classification project is a practical application of Deep Learning and Convolutional Neural Networks (CNN) for detecting diseases in potato plants. The trained model can accurately classify potato plants as healthy or diseased, which can help farmers take timely action to prevent crop losses. The project can be extended by incorporating real-time image processing, deploying the model on edge devices.
+
+# Images For The Project
+
+![WhatsApp Image 2023-04-10 at 22 47 03](https://user-images.githubusercontent.com/90615023/232313586-d9281cb3-6a82-4870-a866-35e5897edecd.jpeg)
+![WhatsApp Image 2023-04-10 at 22 46 28](https://user-images.githubusercontent.com/90615023/232313599-7955934b-7707-49bb-8d31-e38880e50c2c.jpeg)
+![WhatsApp Image 2023-04-10 at 22 45 53](https://user-images.githubusercontent.com/90615023/232313600-7f053981-aa44-4fca-a201-64cb83de815c.jpeg)
+![WhatsApp Image 2023-04-10 at 22 45 19](https://user-images.githubusercontent.com/90615023/232313605-152a84d5-48d6-42aa-932d-f92ba02c9ca2.jpeg)
+
